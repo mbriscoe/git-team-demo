@@ -1,1 +1,1 @@
-# git-team-demo
+# Our Team Git Demo
